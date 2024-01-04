@@ -1,0 +1,20 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-disease_code",
+      "2": "I-disease_code",
+      "3": "L-disease_code",
+      "4": "U-disease_code",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-disease_code": 1,
+      "I-disease_code": 2,
+      "L-disease_code": 3,
+      "U-disease_code": 4,
+      "O": 0
+    },
+    "num_tags": 5
+  }
+]

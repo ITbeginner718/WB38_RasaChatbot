@@ -1,0 +1,10 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xErBJbM4NbE4Nb44NS+ltjYWALLDHjU=": "utter_Disease_Description",
+    "eJyFjMENgCAQBFuhACvgTRfGXAju4xI9CXf4IfQuRn3728nO7tz65FouOCkm40O8a08giTu8e2FjNchwq6IMh2WgeRdYERWkkLX/XFUzFPoWAZoK57v/u10uo+o/gQ==": "utter_Disease_Recommend_Query",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xErBJbM4NbE4Nb44NS+lloBRpSUlqUXxMB0uqcXJRZkFIHlqGhuUmpyfmwvUFh9YmlpUScjoWABuZ2JY": "action_listen",
+    "eJytj1EKAjEMRK/SA3iCfu8F9FckhDpIYJtdmlSQ0rtbWf1WcP9mmJkXcm79ENpacCdOLovG0DZByhkxvM0s5tDRrYYyOqLDegyTGNhABr32L6jqjkKfxQRLRdZXvif2hLTkPGZ0rCiP/9A/Pp9Z+YZx1Hu/PAFwV4FP": "utter_Disease_management",
+    "eJytj1EKAjEMRK/SA3iCfu8F9FeWUOogAZtdmlSQsnc3osL+uaJ/GTLzMjn2ZRf6XHGllI0niaE/B5JUEMNLXFgN4t6mqO5hcWkxDKxIClLIafmAamao9E4M0Fx5fuz/iT0gT6V4jPYN9fYbeuPzJUk6w4/ad11XuU3s8Q5DbKSn": "action_listen"
+  }
+}

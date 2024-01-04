@@ -1,0 +1,117 @@
+version: "3.1"
+
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+
+- intent: mood_great
+  examples: |
+    - perfect
+    - great
+    - amazing
+
+- intent: DiseaseCode_Test
+  examples: |
+    ## 복부
+    # 간비대
+    - [ab01](disease_code)
+    # 소간증
+    - [ab02](disease_code)
+    # 거대신장
+    - [ab03](disease_code)
+    # 복부종양
+    - [ab04](disease_code)
+    # 비뇨기결석
+    - [ab05](disease_code)
+    # 장폐색
+    - [ab06](disease_code)
+    # 거대결장
+    - [ab07](disease_code)
+    # 탈장
+    - [ab08](disease_code)
+    # 복수
+    - [ab09](disease_code)
+    # 자세이상
+    - [ab10](disease_code)
+
+    ## 흉부
+    # 심비대
+    - [ch01](disease_code)
+    # 기관허탈
+    - [ch02](disease_code)
+    # 종격동변위
+    - [ch03](disease_code)
+    # 흉강종양
+    - [ch04](disease_code)
+    # 기흉
+    - [ch05](disease_code)
+    # 횡경막탈장
+    - [ch06](disease_code)
+    # 자세이상
+    - [ch07](disease_code)
+
+    ## 근골격
+    # 골격계종양
+    - [mu01](disease_code)
+    # 사지골절
+    - [mu02](disease_code)
+    # 갈비뼈골절
+    - [mu03](disease_code)
+    # 엉덩관절탈구
+    - [mu04](disease_code)
+    # 슬개골탈구
+    - [mu05](disease_code)
+    # 전십자인대파열
+    - [mu06](disease_code)
+    # 추간판질환
+    - [mu07](disease_code)
+
+    ## 피부 질환(sk_00)
+
+    # 구진,플라크
+    - [sk01](disease_code)
+    # 비듬,각질,상피성잔고리
+    - [sk02](disease_code)
+    # 태선화,과다색소침착
+    - [sk03](disease_code)
+    # 농포,여드름
+    - [sk04](disease_code)
+    # 미란,궤양
+    - [sk05](disease_code)
+    # 결절,종괴
+    - [sk06](disease_code)
+
+    ## 안구 질환(ey_00)
+
+    # 안검염
+    - [ey01](disease_code)
+    # 안검종양
+    - [ey02](disease_code)
+    # 안검 내반증
+    - [ey03](disease_code)
+    # 유루증
+    - [ey04](disease_code)
+    # 색소침착성각막염
+    - [ey05](disease_code)
+    # 궤양성
+    - [ey06](disease_code)
+    # 각막질환
+    - [ey07](disease_code)
+    # 핵경화
+    - [ey08](disease_code)
+    # 결막염
+    - [ey09](disease_code)
+    # 비궤양성_각막질환
+    - [ey10](disease_code)
+    # 백내장
+    - [ey11](disease_code)
+    # 유리체변성
+    - [ey12](disease_code)
+
+    # --무증상 
+    - [nor](disease_code)
